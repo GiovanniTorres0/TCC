@@ -1,0 +1,16 @@
+# Vendedor
+TESTUSER1157236019
+BFoni5lKMn
+
+# Comprador
+TESTUSER2054502193
+wAUTDZPILE
+
+# Cartão de teste
+Mastercard
+5031 4332 1540 6351
+123
+11/25
+
+# CPF
+12345678909
